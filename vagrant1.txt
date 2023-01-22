@@ -1,1 +1,2 @@
 I have successfully started git
+Good to see you learned git, i pulled your content now i am also adding some lines. You also pull the content i have pushed.
